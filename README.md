@@ -12,6 +12,7 @@ Key features:
 - Project collaboration spaces  
 - Accessibility features: voice navigation, high-contrast mode, adjustable font sizes, multi-language support  
 - Responsive design with dark/light theme and smooth animations  
+- Accessibility & Inclusivity: Features for differently-abled users, such as voice navigation, high-contrast modes are enabled (on use ) 
 
 ## Tech Stack
 **Frontend:** React.js, React Router, React Hooks (useState, useEffect, useMemo)  
