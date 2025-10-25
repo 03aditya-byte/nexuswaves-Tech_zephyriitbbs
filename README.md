@@ -1,4 +1,4 @@
-# Skillink 🌱  
+# Skillink 🤝  
 **Exchange Skills, Grow Together**
 
 ## Project Overview
