@@ -30,10 +30,13 @@ Key features:
    git clone <your-repo-link>
    cd Skillink**
 2.Install frontend dependencies:
+   ```bash
    npm install
 3. Start frontend:
+   ```bash
    npm run dev
 4. Start backend:
+   ```bash
    cd backend
    npm install
    npm run dev
