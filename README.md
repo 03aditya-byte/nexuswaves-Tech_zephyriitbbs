@@ -19,11 +19,11 @@ Key features:
 **Styling:** CSS3, CSS Modules, CSS Variables, Flexbox & Grid, CSS Animations  
 **Build Tools & Dev:** Vite, PostCSS, JavaScript (ES6+), JSX  
 
-## Screenshots/demo video link :- 
+## Screenshots/demo video link :-  
 
-## Deployed Project :- 
+## Deployed Project :- https://mgx-khgihmka22.mgx.world
 
-## Project Report :- 
+## Project Report :- https://drive.google.com/file/d/1fQUeZptCjr1msxjQbcHqqWcuPXdzojOu/view?usp=sharing
 
 ## Setup & Installation
 1. Clone the repo:  
